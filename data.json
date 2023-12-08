@@ -1,0 +1,18 @@
+{
+  "aave": {
+     "name": "Aave DAO",
+     "logo": "https://europe1.discourse-cdn.com/business20/uploads/aave/optimized/1X/2ada312765106aec8e237bb1f628fd38e403069c_2_180x180.jpeg",
+     "account": "...",
+     "resolutions": [
+       {
+          "title": "[ARFC] Aave Treasury RWA Allocation",
+          "image": "https://europe1.discourse-cdn.com/business20/uploads/aave/original/1X/f0888d3d080626797615c08ef8741abe7e7e71a2.png",
+          "timestamp": 1694089474,
+          "author": "Asad Khan",
+          "excerpt":
+            "This proposal brings on Centrifuge as a service provider to the Aave DAO to setup a legal structure to support RWA investments, develop RWA specific management and governance processes, and allocate $1M of the Aave Treasury's stablecoin holdings to a liquid US T-Bill fund on Centrifuge, as a proof of concept investment.",
+          "link": "https://governance.aave.com/t/arfc-aave-treasury-rwa-allocation/14790"
+       }
+     ]
+  }
+}
