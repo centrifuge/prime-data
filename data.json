@@ -1,4 +1,5 @@
 {
+  "aave": {
     "name": "Aave DAO",
     "slug": "aave",
     "network": "Centrifuge",
@@ -30,4 +31,5 @@
         "link": "https://governance.aave.com/t/draft-documents-for-aave-rwa-legal-structure/15283"
       }
     ]
+  }
 }
