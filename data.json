@@ -2,15 +2,15 @@
   "gnosis": {
     "name": "Gnosis DAO",
     "slug": "gnosis",
-    "network": "Ethereum",
     "logo": "https://centrifuge.mypinata.cloud/ipfs/QmVD5UHMZfvsuXJRdVcbnmrPgsUFjDjpSXAmfdv3W7MN42",
     "address": "0x30d3bbAE8623d0e9C0db5c27B82dCDA39De40997",
+    "network": 1,
     "resolutions": [
       {
         "title": "GIP-91: Should the GnosisDAO onboard into Centrifuge Prime?",
         "image": "https://centrifuge.mypinata.cloud/ipfs/QmbuPnx58pw7nrbikucE2wYdZ75j7ytFRmcqQKWsnMvQV4",
         "timestamp": 1703074003,
-        "excerpt": "This proposal initiates the onboarding of GnosisDAO into Centrifuge Prime by investing ### of the treasury into Real-world assets (RWAs). The onboarding will be contingent upon the establishment of a Legal Conduit for GnosisDAO by Centrifuge for the safe investment of RWAs. This proposal will integrate existing treasury management processes and services providers such as karpatkey DAO. The benefit of this proposal will provide the GnosisDAO Treasury with an additional diversified source of yield, a resilient legal infrastructure for engaging with RWA investments, and access to additional diversified sources of credit through Centrifuge.",
+        "excerpt": "This proposal initiates the onboarding of GnosisDAO into Centrifuge Prime by investing ### of the treasury into Real-world assets (RWAs). The onboarding will be contingent upon the establishment of a Legal Conduit for GnosisDAO by Centrifuge for the safe investment of RWAs.",
         "link": "https://forum.gnosis.io/t/gip-91-should-the-gnosisdao-onboard-into-centrifuge-prime/7885"
       }
     ]
