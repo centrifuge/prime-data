@@ -1,31 +1,17 @@
 {
-  "aave": {
-    "name": "Aave DAO",
-    "slug": "aave",
-    "network": "centrifuge",
-    "logo": "https://europe1.discourse-cdn.com/business20/uploads/aave/optimized/1X/2ada312765106aec8e237bb1f628fd38e403069c_2_180x180.jpeg",
-    "address": "kALNreUp6oBmtfG87fe7MakWR8BnmQ4SmKjjfG27iVd3nuTue",
+  "gnosis": {
+    "name": "Gnosis DAO",
+    "slug": "gnosis",
+    "network": "Ethereum",
+    "logo": "https://centrifuge.mypinata.cloud/ipfs/QmVD5UHMZfvsuXJRdVcbnmrPgsUFjDjpSXAmfdv3W7MN42",
+    "address": "0x30d3bbAE8623d0e9C0db5c27B82dCDA39De40997",
     "resolutions": [
       {
-        "title": "[ARFC] Aave Treasury RWA Allocation",
-        "image": "https://europe1.discourse-cdn.com/business20/uploads/aave/original/1X/f0888d3d080626797615c08ef8741abe7e7e71a2.png",
-        "timestamp": 1694089474,
-        "excerpt": "This proposal brings on Centrifuge as a service provider to the Aave DAO to setup a legal structure to support RWA investments, develop RWA specific management and governance processes, and allocate $1M of the Aave Treasury's stablecoin holdings to a liquid US T-Bill fund on Centrifuge, as a proof of concept investment.",
-        "link": "https://governance.aave.com/t/arfc-aave-treasury-rwa-allocation/14790"
-      },
-      {
-        "title": "[ARFC] Aave Treasury Proposal for RWA Allocation Snapshot Vote",
-        "image": "https://europe1.discourse-cdn.com/business20/uploads/aave/original/1X/f0888d3d080626797615c08ef8741abe7e7e71a2.png",
-        "timestamp": 1694491200,
-        "excerpt": "This is a first step towards a long term effort for Aave to develop and launch an RWA Facilitator that will back GHO with Real World Assets. With this proposal Aave can earn yield on idle stablecoins, establish long-term RWA infrastructure for the protocol, and allow the Aave DAO to begin building internal familiarity and expertise in the RWA industry.",
-        "link": "https://snapshot.org/#/aave.eth/proposal/0x71db494e4b49e7533c5ccaa566686b2d045b0761cb3296a2d77af4b500566eb0"
-      },
-      {
-        "title": "Draft Documents for Aave RWA Legal Structure",
-        "image": "https://europe1.discourse-cdn.com/business20/uploads/aave/original/1X/f0888d3d080626797615c08ef8741abe7e7e71a2.png",
-        "timestamp": 1698724800,
-        "excerpt": "We have developed an initial draft of the legal documents that will define the Aave’s DAO RWA legal structure. We have shared the below summary and documents with core contributors and delegates for feedback with no issues identified.",
-        "link": "https://governance.aave.com/t/draft-documents-for-aave-rwa-legal-structure/15283"
+        "title": "GIP-91: Should the GnosisDAO onboard into Centrifuge Prime?",
+        "image": "https://centrifuge.mypinata.cloud/ipfs/QmbuPnx58pw7nrbikucE2wYdZ75j7ytFRmcqQKWsnMvQV4",
+        "timestamp": 1703074003,
+        "excerpt": "This proposal initiates the onboarding of GnosisDAO into Centrifuge Prime by investing ### of the treasury into Real-world assets (RWAs). The onboarding will be contingent upon the establishment of a Legal Conduit for GnosisDAO by Centrifuge for the safe investment of RWAs. This proposal will integrate existing treasury management processes and services providers such as karpatkey DAO. The benefit of this proposal will provide the GnosisDAO Treasury with an additional diversified source of yield, a resilient legal infrastructure for engaging with RWA investments, and access to additional diversified sources of credit through Centrifuge.",
+        "link": "https://forum.gnosis.io/t/gip-91-should-the-gnosisdao-onboard-into-centrifuge-prime/7885"
       }
     ]
   }
