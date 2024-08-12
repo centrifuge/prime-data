@@ -1,0 +1,15 @@
+{
+  "name": "prime-data",
+  "version": "1.0.0",
+  "description": "Repository for data related to Centrifuge Prime users.",
+  "main": "out/index.js",
+  "scripts": {
+    "prepublish": "npm run build",
+    "prepublish:dev": "npm run build:dev",
+    "build:dev": "mkdir -p out/ && node build.js dev",
+    "build": "mkdir -p out/ && node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+}
