@@ -22,9 +22,9 @@ jobs:
           node-version: 12.x
       - run: |
           if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
-          npm run prepublish:dev
-          else
           npm run prepublish
+          else
+          npm run prepublish:dev
           fi
       - name: Upload to IPFS
         id: upload_to_ipfs
