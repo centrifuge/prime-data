@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  release:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,7 +22,7 @@ jobs:
           node-version: 12.x
       - run: |
           if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
-          npm run prepublish
+          npm run prepublish:dev
           else
           npm run prepublish
           fi
@@ -40,7 +40,7 @@ jobs:
         run: |
           echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
       - name: Create Release
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' # only create github release on main branch
         id: create_release
         uses: actions/create-release@v1
         env:
