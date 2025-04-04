@@ -35,5 +35,14 @@
         "link": "https://forum.gnosis.io/t/gip-91-should-the-gnosisdao-onboard-into-centrifuge-prime/7885"
       }
     ]
+  },
+  "polkadot": {
+    "name": "Polkadot DAO",
+    "slug": "polkadot",
+    "logo": "https://centrifuge.mypinata.cloud/ipfs/bafkreidvghtf6nw2eqy4scvbqbk5iugbtvcdenx3nkmpbwx4u2gm7hsssu",
+    "address": "4f2cV7tKcFBBjxxoyczB1XsHAqJjiUXgfSFxyJ65rkTgqfgR",
+    "network": 2031,
+    "resolutions": [
+    ]
   }
 }
